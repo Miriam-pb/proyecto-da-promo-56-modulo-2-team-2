@@ -123,3 +123,8 @@ Objetivo: transmitir cómo los datos pueden ayudar a identificar tendencias, art
 
 
 
+Realizado por:
+ - Laura Fernández
+ - Maria Gomez
+ - Irene de Hoz
+ - Miriam Pérez
